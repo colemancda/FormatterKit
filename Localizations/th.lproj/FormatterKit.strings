@@ -1,58 +1,55 @@
 ﻿/* List separator */
-" " = "";
+" " = " ";
 
-/* Ampersand. */
-"&" = "和";
+/* No comment provided by engineer. */
+"&" = "&";
 
 /* Coordinate format */
 "(%@, %@)" = "(%1$@, %2$@)";
 
 /* List delimiter */
-"," = "、";
+"," = ",";
 
 /* Approximate Qualifier Format */
-"about %@" = "關於 %@";
+"about %@" = "ประมาณ %@";
 
 /* Past Deictic Expression */
-"ago" = "前";
+"ago" = "ที่แล้ว";
 
 /* List conjunction */
-"and" = "及";
+"and" = "และ";
 
 /* Bit Unit */
-"bits" = "位元";
+"bits" = "bits";
 
 /* Byte Unit */
-"bytes" = "位元組";
+"bytes" = "bytes";
 
 /* Error converting to NSArray */
-"Couldn’t convert to NSArray" = "無法轉換成 NSArray";
+"Couldn’t convert to NSArray" = "ไม่สามารถแปลงเป็น NSArray ได้";
 
 /* Day Unit (Singular, Abbreviated)
    Day Unit (Singular) */
-"day" = "天";
+"day" = "วัน";
 
 /* Day Unit (Plural, Abbreviated)
    Day Unit (Plural) */
-"days" = "天";
+"days" = "วัน";
 
 /* Deictic Expression Format (#{Time} #{Ago/From Now} */
 "Deictic Expression Format String" = "%1$@%2$@";
 
 /* #{Dimensional Quantity} #{Direction} */
-"Dimension Format String" = "%1$@%2$@";
+"Dimension Format String" = "%1$@ %2$@";
 
 /* #{Distance} #{Unit} */
-"Distance Format String" = "%1$@%2$@";
-
-/* Suffix Expression Format (#{Time} #{Unit}) */
-"Suffix Expression Format String" = "%1$@%2$@";
+"Distance Format String" = "%1$@ %2$@";
 
 /* East Direction Abbreviation */
-"E" = "E";
+"E" = "อ.";
 
 /* East Direction */
-"East" = "東";
+"East" = "ตะวันออก";
 
 /* Exabyte Unit */
 "EB" = "EB";
@@ -61,13 +58,13 @@
 "EiB" = "EiB";
 
 /* Future Deictic Expression */
-"from now" = "之後";
+"from now" = "จากตอนนี้";
 
 /* Feet Unit */
-"ft" = "英尺";
+"ft" = "ฟุต";
 
 /* Feet Per Second Unit */
-"ft/s" = "英尺/秒";
+"ft/s" = "ฟุต/วิ";
 
 /* Gigabyte Unit */
 "GB" = "GB";
@@ -82,19 +79,19 @@
 "Gibit" = "Gibit";
 
 /* Hour Unit (Singular) */
-"hour" = "小時";
+"hour" = "ชั่วโมง";
 
 /* Hour Unit (Plural) */
-"hours" = "小時";
+"hours" = "ชั่วโมง";
 
 /* Hour Unit (Singular, Abbreviated) */
-"hr" = "小時";
+"hr" = "ชม.";
 
 /* Hour Unit (Plural, Abbreviated) */
-"hrs" = "小時";
+"hrs" = "ชม.";
 
 /* Present Deictic Expression */
-"just now" = "剛才";
+"just now" = "เมื่อครู่นี้";
 
 /* Kilobyte Unit */
 "KB" = "KB";
@@ -109,25 +106,25 @@
 "Kibit" = "Kibit";
 
 /* Kilometer Unit */
-"km" = "公里";
+"km" = "กม.";
 
 /* Kilometers Per Hour Unit */
-"km/h" = "公里/小時";
+"km/h" = "กม./ชม.";
 
 /* No comment provided by engineer. */
-"last month" = "上個月";
+"last month" = "เดือนที่แล้ว";
 
 /* No comment provided by engineer. */
-"last week" = "上禮拜";
+"last week" = "สัปดาห์ที่แล้ว";
 
 /* No comment provided by engineer. */
-"last year" = "去年";
+"last year" = "ปีที่แล้ว";
 
 /* Meter Unit */
-"m" = "公尺";
+"m" = "ม.";
 
 /* Meters Per Second Unit */
-"m/s" = "公尺/秒";
+"m/s" = "ม./วิ";
 
 /* Megabyte Unit */
 "MB" = "MB";
@@ -136,7 +133,7 @@
 "Mbit" = "Mbit";
 
 /* No comment provided by engineer. */
-"Method Not Implemented" = "方法未實做";
+"Method Not Implemented" = "Method ยังไม่ถูก Implemented";
 
 /* Mebibyte Unit */
 "MiB" = "MiB";
@@ -145,64 +142,64 @@
 "Mibit" = "Mibit";
 
 /* Mile Unit (Singular) */
-"mile" = "英里";
+"mile" = "ไมล์";
 
 /* Mile Unit (Plural) */
-"miles" = "英里";
+"miles" = "ไมล์";
 
 /* Minute Unit (Singular, Abbreviated) */
-"min" = "分鐘";
+"min" = "น.";
 
 /* Minute Unit (Plural, Abbreviated) */
-"mins" = "分鐘";
+"mins" = "น.";
 
 /* Minute Unit (Singular) */
-"minute" = "分鐘";
+"minute" = "นาที";
 
 /* Minute Unit (Plural) */
-"minutes" = "分鐘";
+"minutes" = "นาที";
 
 /* Month Unit (Singular, Abbreviated) */
-"mo" = "月";
+"mo" = "ด.";
 
 /* Month Unit (Singular) */
-"month" = "月";
+"month" = "เดือน";
 
 /* Month Unit (Plural) */
-"months" = "月";
+"months" = "เดือน";
 
 /* Month Unit (Plural, Abbreviated) */
-"mos" = "月";
+"mos" = "ด.";
 
 /* Miles Per Hour Unit */
-"mph" = "英里/小時";
+"mph" = "ไมล์/ชม.";
 
 /* North Direction Abbreviation */
-"N" = "N";
+"N" = "น.";
 
 /* Northeast Direction Abbreviation */
-"NE" = "NE";
+"NE" = "ต.อ.น.";
 
 /* No comment provided by engineer. */
-"next month" = "下個月";
+"next month" = "เดือนหน้า";
 
 /* No comment provided by engineer. */
-"next week" = "下禮拜";
+"next week" = "สัปดาห์หน้า";
 
 /* No comment provided by engineer. */
-"next year" = "明年";
+"next year" = "ปีหน้า";
 
 /* North Direction */
-"North" = "北";
+"North" = "เหนือ";
 
 /* Northeast Direction */
-"Northeast" = "東北";
+"Northeast" = "ตะวันออกเฉียงเหนือ";
 
 /* Northwest Direction */
-"Northwest" = "西北";
+"Northwest" = "ตะวันตกเฉียงเหนือ";
 
 /* Northwest Direction Abbreviation */
-"NW" = "NW";
+"NW" = "ต.ต.น.";
 
 /* Petabyte Unit */
 "PB" = "PB";
@@ -217,35 +214,35 @@
 "Pibit" = "Pibit";
 
 /* South Direction Abbreviation */
-"S" = "S";
+"S" = "ต.";
 
 /* Second Unit (Plural, Abbreviated)
    Second Unit (Singular, Abbreviated) */
-"s" = "秒";
+"s" = "วิ";
 
 /* Southeast Direction Abbreviation */
-"SE" = "SE";
+"SE" = "ต.อ.ต.";
 
 /* Second Unit (Singular) */
-"second" = "秒";
+"second" = "วินาที";
 
 /* Second Unit (Plural) */
-"seconds" = "秒";
+"seconds" = "วินาที";
 
 /* South Direction */
-"South" = "南";
+"South" = "ใต้";
 
 /* Southeast Direction */
-"Southeast" = "東南";
+"Southeast" = "ตะวันออกเฉียงใต้";
 
 /* Southwest Direction */
-"Southwest" = "西南";
+"Southwest" = "ตะวันตกเฉียงใต้";
 
 /* #{Speed} #{Unit} */
 "Speed Format String" = "%1$@ %2$@";
 
 /* Southwest Direction Abbreviation */
-"SW" = "SW";
+"SW" = "ต.ต.ต.";
 
 /* Terabyte Unit */
 "TB" = "TB";
@@ -260,44 +257,43 @@
 "Tibit" = "Tibit";
 
 /* No comment provided by engineer. */
-"tomorrow" = "明天";
+"tomorrow" = "พรุ่งนี้";
 
 /* #{Value} #{Unit} */
 "Unit of Information Format String" = "%1$@ %2$@";
 
 /* West Direction Abbreviation */
-"W" = "W";
+"W" = "ต.";
 
 /* Week Unit (Singular) */
-"week" = "周";
+"week" = "สัปดาห์";
 
 /* Week Unit (Plural) */
-"weeks" = "周";
+"weeks" = "สัปดาห์";
 
 /* West Direction */
-"West" = "西";
+"West" = "ตะวันตก";
 
 /* Week Unit (Singular, Abbreviated) */
-"wk" = "周";
+"wk" = "สัปดาห์";
 
 /* Week Unit (Plural, Abbreviated) */
-"wks" = "周";
+"wks" = "สัปดาห์";
 
 /* Yard Unit */
-"yds" = "碼";
+"yds" = "หลา";
 
 /* Year Unit (Singular) */
-"year" = "年";
+"year" = "ปี";
 
 /* Year Unit (Plural) */
-"years" = "年";
+"years" = "ปี";
 
 /* No comment provided by engineer. */
-"yesterday" = "昨天";
+"yesterday" = "เมื่อวาน";
 
 /* Year Unit (Singular, Abbreviated) */
-"yr" = "年";
+"yr" = "ปี";
 
 /* Year Unit (Plural, Abbreviated) */
-"yrs" = "年";
-
+"yrs" = "ปี";
