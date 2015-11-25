@@ -20,7 +20,7 @@ FOUNDATION_EXPORT const unsigned char FormatterKitVersionString[];
 #import <FormatterKit/TTTLocationFormatter.h>
 #import <FormatterKit/TTTNameFormatter.h>
 #import <FormatterKit/TTTOrdinalNumberFormatter.h>
-#import <FormatterKit/TTTTimeIntervalFormatter>
+#import <FormatterKit/TTTTimeIntervalFormatter.h>
 #import <FormatterKit/TTTUnitOfInformationFormatter.h>
 #import <FormatterKit/TTTURLRequestFormatter>
 
