@@ -22,5 +22,5 @@ FOUNDATION_EXPORT const unsigned char FormatterKitVersionString[];
 #import <FormatterKit/TTTOrdinalNumberFormatter.h>
 #import <FormatterKit/TTTTimeIntervalFormatter.h>
 #import <FormatterKit/TTTUnitOfInformationFormatter.h>
-#import <FormatterKit/TTTURLRequestFormatter>
+#import <FormatterKit/TTTURLRequestFormatter.h>
 
